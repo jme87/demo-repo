@@ -11,6 +11,6 @@ Watch tutorial on YouTube.
 
 1. Open index.html in your browser
 
-## Learning to push update work on GitHub
+## Learning to clone updates from GitHub to local
 
-In this example I will push this update from GitHub to local on the main branch.
+In this example I will clone this update from GitHub and pull it to local.
